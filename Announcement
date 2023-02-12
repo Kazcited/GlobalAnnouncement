@@ -1,1 +1,2 @@
 local PrintText = "Hello World"
+print(PrintText)
